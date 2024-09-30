@@ -14,12 +14,7 @@ public class Fibonacci {
             b = a + b;
             a = temp;
             count++;
-
-
         }
-
         System.out.println(b);
-
     }
-
 }

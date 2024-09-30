@@ -4,17 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2c94dab-43c8-43ec-9f10-4aa8b8431a92" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
-    </list>
+    <list default="true" id="f2c94dab-43c8-43ec-9f10-4aa8b8431a92" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="https://github.com/ayushi-006/JAVA.git" />
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="ayu" />
         <option value="Ayushi &lt;114921383+ayushi-006@users.noreply.github.com&gt;" />
       </list>
     </option>
@@ -26,10 +33,13 @@
     "assignee": "ayushi-006"
   }
 }]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d79c936f-54b3-4d3a-b5a0-b08820b84347" />
+  </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/ayushi-006/JAVA.git",
-    "accountId": "02ad126e-0838-4c20-bc45-d58878153658"
+    "accountId": "d79c936f-54b3-4d3a-b5a0-b08820b84347"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -44,13 +54,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Fibonacci.executor": "Run",
+    "Application.Occurence.executor": "Run",
+    "Application.Reverse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/91829/IdeaProjects/JAVA",
     "onboarding.tips.debug.path": "C:/Users/91829/IdeaProjects/Candy/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
   <component name="RunManager">
@@ -143,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727678450848</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1727680039825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727680039825</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <option name="closed" value="true" />
+      <created>1727680297104</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727680297104</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
