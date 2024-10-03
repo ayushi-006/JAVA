@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2c94dab-43c8-43ec-9f10-4aa8b8431a92" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swapping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java doc.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/java doc.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/here.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/here.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +60,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Fibonacci.executor": "Run",
+    "Application.Methods.executor": "Run",
     "Application.Occurence.executor": "Run",
     "Application.Reverse.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.calculator.executor": "Run",
+    "Application.greetings.executor": "Run",
     "Application.here.executor": "Run",
+    "Application.swapping.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -205,7 +210,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727845148535</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit">
+      <option name="closed" value="true" />
+      <created>1727938780712</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727938780712</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit">
+      <option name="closed" value="true" />
+      <created>1727938821997</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727938821997</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
