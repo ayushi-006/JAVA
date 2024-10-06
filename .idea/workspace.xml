@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2c94dab-43c8-43ec-9f10-4aa8b8431a92" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/VarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ok.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Candy/swapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Candy/swapping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Largest_no.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Largest_no.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/isPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/isPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questions/temperature.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +63,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Fibonacci.executor": "Run",
+    "Application.Inputs.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Occurence.executor": "Run",
     "Application.Questions.executor": "Run",
@@ -69,6 +73,7 @@
     "Application.calculator.executor": "Run",
     "Application.greetings.executor": "Run",
     "Application.here.executor": "Run",
+    "Application.ok.executor": "Run",
     "Application.swapping.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -244,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727963407971</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commit">
+      <option name="closed" value="true" />
+      <created>1728032736234</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728032736234</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
