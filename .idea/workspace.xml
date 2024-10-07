@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2c94dab-43c8-43ec-9f10-4aa8b8431a92" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/multi_dim_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/passingfunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/multi_dim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questions/array_average.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/ok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/multi_dim_arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/multi_dim_arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
     <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2mYo1X6iWPxNbodxRxx7wVZAyxZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,6 +59,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Fibonacci.executor": "Run",
+    "Application.GA.executor": "Run",
     "Application.Inputs.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Occurence.executor": "Run",
@@ -69,6 +70,7 @@
     "Application.calculator.executor": "Run",
     "Application.greetings.executor": "Run",
     "Application.here.executor": "Run",
+    "Application.multi_dim_arrays.executor": "Run",
     "Application.ok.executor": "Run",
     "Application.passingfunctions.executor": "Run",
     "Application.swapping.executor": "Run",
@@ -86,6 +88,19 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="GA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questions.GA" />
+      <module name="Candy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="JAVA" />
       <method v="2">
@@ -133,6 +148,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GA" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -263,7 +283,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728190351498</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit">
+      <option name="closed" value="true" />
+      <created>1728219211239</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728219211239</updated>
+    </task>
+    <task id="LOCAL-00017" summary="commit">
+      <option name="closed" value="true" />
+      <created>1728219231715</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728219231715</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
