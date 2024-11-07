@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2c94dab-43c8-43ec-9f10-4aa8b8431a92" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/oppe_1_practise/cons_overloading_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oppe_1_practise/const_overloading_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppe_1_practise/copy_constructor_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oppe_1_practise/const_overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oppe_1_practise/const_overloading.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +71,7 @@
     "Application.const_overloading.executor": "Run",
     "Application.const_overloading_3.executor": "Run",
     "Application.constructorQ_1.executor": "Run",
+    "Application.copy_constructor_1.executor": "Run",
     "Application.ga.executor": "Run",
     "Application.greetings.executor": "Run",
     "Application.here.executor": "Run",
@@ -338,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730905870494</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="commit">
+      <option name="closed" value="true" />
+      <created>1730924558096</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1730924558096</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
