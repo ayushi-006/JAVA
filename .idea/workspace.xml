@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2c94dab-43c8-43ec-9f10-4aa8b8431a92" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/oppe_1_practise/copy_constructor_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppe_1_practise/Abstclasses_and_intf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oppe_1_practise/cc_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oppe_1_practise/cc_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
+  &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2mYo1X6iWPxNbodxRxx7wVZAyxZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,6 +57,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Abstclasses_and_intf.executor": "Run",
     "Application.Array_list.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.GA.executor": "Run",
@@ -68,10 +70,11 @@
     "Application.Switch.executor": "Run",
     "Application.VarArgs.executor": "Run",
     "Application.calculator.executor": "Run",
+    "Application.cc_2.executor": "Run",
     "Application.const_overloading.executor": "Run",
     "Application.const_overloading_3.executor": "Run",
     "Application.constructorQ_1.executor": "Run",
-    "Application.copy_constructor_1.executor": "Run",
+    "Application.copy_constructor_1.executor": "Debug",
     "Application.ga.executor": "Run",
     "Application.greetings.executor": "Run",
     "Application.here.executor": "Run",
@@ -102,19 +105,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="GA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="questions.GA" />
-      <module name="Candy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="JAVA" />
       <method v="2">
@@ -162,11 +152,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.GA" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -345,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730924558096</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="commit">
+      <option name="closed" value="true" />
+      <created>1730967053643</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730967053643</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
