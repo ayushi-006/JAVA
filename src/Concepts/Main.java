@@ -1,6 +1,4 @@
-
-
-import java.io.File;
+package Concepts;
 
 import java.util.Scanner;
 public class Main {

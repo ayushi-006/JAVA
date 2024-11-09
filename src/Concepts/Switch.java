@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package Concepts;
+
 import java.util.Scanner;
 
 public class Switch {
