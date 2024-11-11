@@ -5,6 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2c94dab-43c8-43ec-9f10-4aa8b8431a92" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/oppe_1_practise/Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppe_1_practise/Reflectors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppe_1_practise/SuperExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/Inputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/Occurence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/Scoping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/VarArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/conditionals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/greetings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/here.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/nested_IF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/primitives.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Candy/swapping.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/oppe_1_practise/Dynamic_Dispatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oppe_1_practise/Dynamic_Dispatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,14 +75,18 @@
   "keyToString": {
     "Application.Abstclasses_and_intf.executor": "Run",
     "Application.Array_list.executor": "Run",
+    "Application.Dynamic_Dispatch.executor": "Run",
     "Application.Fibonacci.executor": "Run",
     "Application.GA.executor": "Run",
     "Application.Inputs.executor": "Run",
     "Application.MainDemo.executor": "Run",
+    "Application.Maps.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Occurence.executor": "Run",
     "Application.Questions.executor": "Run",
+    "Application.Reflectors.executor": "Run",
     "Application.Reverse.executor": "Run",
+    "Application.SuperExample.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.VarArgs.executor": "Run",
     "Application.calculator.executor": "Run",
@@ -344,7 +366,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731163069956</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="commit">
+      <option name="closed" value="true" />
+      <created>1731163269308</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1731163269308</updated>
+    </task>
+    <task id="LOCAL-00025" summary="commit">
+      <option name="closed" value="true" />
+      <created>1731163278813</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1731163278813</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -370,7 +408,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/Concepts/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
